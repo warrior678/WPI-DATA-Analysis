@@ -1,23 +1,23 @@
 # WPI-DATA-Analysis
 “Wholesale Price Index Analysis using Python &amp; Excel”
-# 📊 WPI Data Analysis Project (2012–2023)
+#  WPI Data Analysis Project (2012–2023)
 
 This project analyzes India's **Wholesale Price Index (WPI)** data from 2012 to 2023 using Python (Pandas, Matplotlib) and Excel.
 
-## 🔧 Tools Used
+##  Tools Used
 - Excel (Data Cleaning & Sorting)
 - Python (Pandas, NumPy, Matplotlib)
 - Jupyter Notebook
 - VS Code
 
-## 📈 Key Features
+##  Key Features
 - Cleaned missing values using mean method
 - Calculated WPI Growth (%) for commodities (2012–2023)
 - Visualized Top 10 commodities by growth
 - Plotted WPI trend for Wheat
 - Hybrid approach (Excel + Python) for flexible analysis
 
-## 📁 Files Included
+##  Files Included
 - `wpi_analysis.ipynb`: Complete notebook with analysis
 - `wpi_data.xlsx`: Cleaned WPI dataset (Excel)
 - `WPI_Report.pdf`: Exported notebook (optional)
@@ -29,7 +29,7 @@ This project analyzes India's **Wholesale Price Index (WPI)** data from 2012 to 
 
 
 
-## 💼 Author
+##  Author
 **Gautam Kumar**  
 📍  India  
 📧 gk4137061@gmail.com  
